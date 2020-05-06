@@ -1,16 +1,15 @@
-# pokemon_api_wedevs
+# PokemonApp
 
-A new Flutter project.
+Pokemon app nos ayudara a realizar peticiones HTTP a una API publica.
 
-## Getting Started
+## Instalacion
 
-This project is a starting point for a Flutter application.
+Despues de clonar o descargar el proyecto, llevalo a tu editor de codigo favorito, y ejecuta el siguiente comando en la terminal:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter packages get
+```
+Diseno basado en: https://dribbble.com/shots/6740869-DailyUI-044-Favourites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](assets/pokemon.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
