@@ -108,7 +108,7 @@ class PokemonItem extends StatelessWidget {
     return Row(
       children: pokemon.types
           .map(
-            (type) => _chipTypePokemon(type.name),
+            (type) => _chipTypePokemon(type.type.name),
           )
           .toList(),
     );
